@@ -1,0 +1,15 @@
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\bin\Debug\Samesem Dictionary.exe.config
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\bin\Debug\Samesem Dictionary.exe
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\bin\Debug\Samesem Dictionary.pdb
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem_Dictionary.Form1.resources
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem_Dictionary.Properties.Resources.resources
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem Dictionary.csproj.GenerateResource.Cache
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem Dictionary.exe
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem Dictionary.pdb
+D:\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\DELL\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\bin\Debug\Samesem Dictionary.exe.config
+C:\Users\DELL\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem Dictionary.exe
+C:\Users\DELL\syrine\ENIS\C sharp\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem Dictionary.pdb
+D:\syrine\ENIS\1 er année\C #\Samesem Dictionary\Samesem Dictionary\bin\Debug\Samesem Dictionary.exe.config
+D:\syrine\ENIS\1 er année\C #\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem Dictionary.exe
+D:\syrine\ENIS\1 er année\C #\Samesem Dictionary\Samesem Dictionary\obj\Debug\Samesem Dictionary.pdb
